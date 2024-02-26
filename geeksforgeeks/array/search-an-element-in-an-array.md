@@ -1,5 +1,5 @@
 ## Problem Code
-```
+```cpp
 class Solution{
     public:
     // Function to search x in arr
