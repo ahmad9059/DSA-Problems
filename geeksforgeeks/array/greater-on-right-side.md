@@ -1,5 +1,5 @@
 ## Problem Code
-```
+```cpp
 class Solution{
 public:	
 	/* Function to replace every element with the
