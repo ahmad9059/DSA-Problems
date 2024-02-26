@@ -1,3 +1,5 @@
+## Problem code
+```
 class Solution {
 public:
     string ans = "";
@@ -21,3 +23,4 @@ public:
         return ans;
     }
 };
+```
