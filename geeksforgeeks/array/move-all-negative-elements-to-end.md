@@ -1,3 +1,5 @@
+## Problem Code
+```
 class Solution{
     public:
     void segregateElements(int arr[],int n)
@@ -30,3 +32,4 @@ class Solution{
         
     }
 };
+```
