@@ -1,5 +1,5 @@
 ## Problem code
-```
+```cpp
 class Solution{
     public:
 
