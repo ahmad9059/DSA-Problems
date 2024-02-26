@@ -1,5 +1,5 @@
 ## Problem Code
-```
+```cpp
 class Solution{
   public:
     long long int totalFine(int n, int date, int car[], int fine[])
