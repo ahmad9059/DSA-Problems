@@ -1,3 +1,5 @@
+## Problem Code
+```
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -12,3 +14,4 @@ public:
         return {}; // No solution found
     }
 };
+```
