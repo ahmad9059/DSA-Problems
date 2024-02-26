@@ -1,5 +1,5 @@
 ## Problem Code
-```
+```cpp
 //User function Template for C++
 
 void rotate(int arr[], int n)
