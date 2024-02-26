@@ -1,3 +1,5 @@
+## Problem Code
+```
 class Solution{
     public:
     // Function to search x in arr
@@ -17,3 +19,4 @@ class Solution{
     }
 
 };
+```
