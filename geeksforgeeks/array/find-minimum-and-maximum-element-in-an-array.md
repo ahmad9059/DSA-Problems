@@ -1,3 +1,5 @@
+## Problem Code
+```
 class Solution {
 public:
     pair<long long, long long> getMinMax(long long a[], int n) {
@@ -14,3 +16,4 @@ public:
     }
 
 };
+```
