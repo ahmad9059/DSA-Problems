@@ -1,3 +1,5 @@
+## Problem code
+```
 class Solution{
     public:
 
@@ -14,3 +16,4 @@ class Solution{
         return 1;
     }
 };
+```
