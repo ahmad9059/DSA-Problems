@@ -1,3 +1,5 @@
+## Problem Code
+```
 class Solution {
   public:
     int missingNumber(int n, vector<int> &arr) {
@@ -11,3 +13,4 @@ class Solution {
         return num-sum;
     }
 };
+```
