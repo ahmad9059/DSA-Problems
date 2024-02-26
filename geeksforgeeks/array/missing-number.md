@@ -1,5 +1,5 @@
 ## Problem Code
-```
+```cpp
 class Solution {
   public:
     int missingNumber(int n, vector<int> &arr) {
